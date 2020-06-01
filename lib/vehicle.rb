@@ -15,5 +15,3 @@ class Vehicle #Super Class!
   end
 
 end
-
-end
